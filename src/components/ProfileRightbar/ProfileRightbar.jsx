@@ -1,5 +1,5 @@
 import './ProfileRightbar.css';
-import {Users, Post} from '../../dummyData';
+import {Users} from '../../dummyData';
 import UserFriend from '../userfriend/userfriend';
 
 export default function ProfileRightbar(){

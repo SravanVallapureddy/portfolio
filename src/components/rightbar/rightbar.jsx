@@ -1,7 +1,7 @@
 import './rightbar.css';
-import {Users, Posts} from '../../dummyData.js'
+import {Users} from '../../dummyData.js'
 import Online from '../online/online.jsx';
-import Profile from '../../pages/profile/profile.jsx';
+// import Profile from '../../pages/profile/profile.jsx';
 
 
 export default function Rightbar(){
